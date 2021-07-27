@@ -1,0 +1,12 @@
+[13-Jul-2021 08:39:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 08:43:09 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/landaksa/public_html/hrgat/index.php on line 180
+[13-Jul-2021 08:43:09 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/landaksa/public_html/hrgat/index.php on line 180
+[13-Jul-2021 08:43:09 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/landaksa/public_html/hrgat/index.php on line 180
+[13-Jul-2021 08:43:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/landaksa/public_html/hrgat/index.php on line 182
+[13-Jul-2021 08:43:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'signup' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 08:43:23 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'signup' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 08:43:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'signup' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 08:43:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'signup' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 08:43:32 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'signup' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 09:05:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'landaksa'@'localhost' to database 'landaksa_demo_login_db' in /home/landaksa/public_html/hrgat/dbconnect.php on line 6
+[13-Jul-2021 11:02:39 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/landaksa/public_html/hrgat/logincode.php on line 38
